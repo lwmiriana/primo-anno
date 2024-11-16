@@ -1,0 +1,2 @@
+ciauz
+!(foto)[immaginemi.jpg]
